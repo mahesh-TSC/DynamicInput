@@ -1,0 +1,80 @@
+ * {
+   font-family: cursive;
+   background-image: url("../../stepform/public/forest-dirt-road-pine-trees-faded-wallpaper-preview.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+ }
+
+ .login {
+   margin: 10% auto;
+   width: 42%;
+   min-height: 19rem;
+   background: white;
+
+ }
+
+ span {
+   background: white;
+   color: red;
+ }
+
+ .login-page {
+   background: white;
+ }
+
+ .login-page>h1 {
+   text-align: center;
+   background: blue;
+   color: white;
+   height: 5rem;
+ }
+
+ .login>div>div {
+   margin: 4%;
+   background: white;
+ }
+
+ div>label {
+   margin: 2%;
+   font-size: 1.5rem;
+   background: white;
+ }
+
+ div>input {
+   padding: 1%;
+   width: 89%;
+   height: 1.5rem;
+   margin: 2%;
+   border: none;
+   background: white;
+   font-size: 1.1rem;
+   border-bottom: 1px solid;
+   outline: none;
+ }
+
+ button {
+   text-align: center;
+   color: white;
+   background: blue;
+   height: 2.5rem;
+   width: 8rem;
+   border-radius: 15px;
+   font-size: 1.5rem;
+   border: none;
+   margin: 0 0% 2% 18%;
+ }
+
+ button:hover {
+   background: #000;
+ }
+
+ .additem {
+   background-color: green !important;
+ }
+
+ .removeItem {
+   background-color: red;
+   float: right;
+   margin-right: 19%;
+ }
